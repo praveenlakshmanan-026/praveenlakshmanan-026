@@ -35,7 +35,7 @@
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **IntelliStay** | Hotel management: room booking, check-in/out, billing, staff management | Flutter, Provider, Bloc, Dio |
+| **IntelliStay** | Hotel management: room booking, check-in/out, billing, staff management | Flutter, Provider,http |
 | **Inventory** | Real-time stock and purchase tracking dashboard | Flutter, Provider, Dio |
 | **KOT** | Kitchen order ticket system for faster order-to-kitchen flow | Flutter, Firebase, REST API |
 
